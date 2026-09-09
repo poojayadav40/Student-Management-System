@@ -20,8 +20,9 @@ A desktop application built using **Java Swing** for the GUI and **SQLite** for 
 ### 1. Numeric Input Validation
 Restricts ID and Roll Number fields to numeric digits only.
 
-![Numeric Validation Error](<img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/d87abe40-bdf7-43a3-a370-f8b4682677bf" />
-)
+![Numeric Validation Error]
+<img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/d87abe40-bdf7-43a3-a370-f8b4682677bf" />
+
 
 ---
 
