@@ -29,24 +29,27 @@ Restricts ID and Roll Number fields to numeric digits only.
 ### 2. Duplicate ID Validation
 Prevents adding duplicate records to maintain database uniqueness.
 
-![Duplicate ID Validation](<img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/4270f9f8-dbdc-4335-b6f3-a8a33cdd12e3" />
-)
+![Duplicate ID Validation]
+<img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/4270f9f8-dbdc-4335-b6f3-a8a33cdd12e3" />
+
 
 ---
 
 ### 3. Live Search & Dynamic Filtering
 Filters records instantly based on text entered in the search bar.
 
-![Live Search Feature](<img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/2fe0f5c9-d2a7-475b-8990-82f5ba9c2873" />
-)
+![Live Search Feature]
+<img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/2fe0f5c9-d2a7-475b-8990-82f5ba9c2873" />
+
 
 ---
 
 ### 4. CSV Data Export Confirmation
 Exports structured student records directly to a `.csv` report file.
 
-![CSV Export Confirmation](<img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/09cf061e-548b-426f-9657-deb5056333ee" />
-)
+![CSV Export Confirmation]
+<img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/09cf061e-548b-426f-9657-deb5056333ee" />
+
 
 ---
 
