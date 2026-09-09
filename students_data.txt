@@ -1,0 +1,3 @@
+101,Pooja,CSE,45
+46,Riya,ECE,65
+47,Aman,CIVIL,89
